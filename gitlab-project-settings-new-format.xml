@@ -1,0 +1,13 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="1WQfg3yAqvWaA1-THDSH" />
+          <option name="preferredConnection" value="HTTPS" />
+          <option name="repositoryUrl" value="https://gitlab.bestpay.com.cn" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
