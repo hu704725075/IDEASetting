@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/hu704725075/spring-cloud.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.bestpay.com.cn:insurance/insurance-premise.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\" />
