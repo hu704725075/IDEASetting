@@ -38,8 +38,12 @@
           <option name="url" value="https://gitee.com/fuhai/jpress.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/carnellj/spmia-chapter1.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\java" />
+    <option name="cloneParentDir" value="H:\spring-cloud-demo" />
   </component>
 </application>
