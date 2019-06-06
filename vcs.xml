@@ -54,6 +54,10 @@
           <option name="url" value="https://github.com/geektime-geekbang/geektime-spring-family.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-projects/spring-data-examples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="H:\spring-cloud-demo" />
