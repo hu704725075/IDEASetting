@@ -70,6 +70,10 @@
           <option name="url" value="https://github.com/hu704725075/mall-admin-web.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/hu704725075/miaosha.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="H:\spring-cloud-demo" />
