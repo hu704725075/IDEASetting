@@ -82,8 +82,12 @@
           <option name="url" value="git@code.aliyun.com:yuantu_platform/aolsee.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/hu704725075/springboot-demo-codegen.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="H:\work" />
+    <option name="cloneParentDir" value="H:\learning" />
   </component>
 </application>
